@@ -1,2 +1,0 @@
-# kevin_projeto
-projeto_vetor_notas_aprovação_reprovação_frequẽncia
